@@ -18,6 +18,8 @@ The Biological Reactor avoids medical diagnoses or patient-specific advice, ensu
 [Quantum Biology](https://chatgpt.com/g/g-xK8fPmlSu-quantum-biology)
 <br>
 [Chemical Diagnostics](https://chat.openai.com/g/g-Yn1ecDq4f-chemical-diagnostics)
+<br>
+[Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
