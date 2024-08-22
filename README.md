@@ -11,6 +11,10 @@ In addition to its focus on simulations, the Biological Reactor GPT is well-vers
 The Biological Reactor avoids medical diagnoses or patient-specific advice, ensuring that its role remains firmly within the realm of research support. Its purpose is to empower researchers by enhancing their ability to model and analyze biological phenomena, ultimately contributing to advancements in scientific knowledge. Whether users are looking to simulate molecular dynamics, explore genetic networks, or analyze complex biochemical data, this GPT serves as a valuable resource in the field of computational biology and chemistry.
 
 #
+
+> Alex: "*I developed the first AI-Assisted Computational Reactor when I made the Biological Reactor.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
