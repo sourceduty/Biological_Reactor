@@ -1,6 +1,6 @@
 ![Biological Reactor](https://github.com/user-attachments/assets/080898df-a776-46e7-bd1d-14aa9ff48fab)
 
-> Specialized biological simulation and research assistant.
+> Specialized biological simulation and research assistant. The first and original AI-Assisted Computational Reactor.
 
 #
 
