@@ -26,6 +26,8 @@ The Biological Reactor avoids medical diagnoses or patient-specific advice, ensu
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Biochemical Programming](https://github.com/sourceduty/Biochemical_Programming)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
